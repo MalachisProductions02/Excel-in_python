@@ -37,7 +37,7 @@ Para finalizar, se escribió un PDF explicando los detalles técnicos de la base
 Gracias por elegir [MALACHIS PRODUCTIONS](https://malachis-productions.itch.io)
 Puedes visitar y apoyar mi trabajo en mis siguientes páginas ^^
 
--[![Itch.io](https://static.itch.io/images/itchio-textless-black.svg)](https://malachis-productions.itch.io)
--[![Facebook](https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg)](https://www.facebook.com/MalachisProductions)
--[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/MalachisProductions02)
+<a href="https://github.com/TU_USUARIO">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/>
+</a>
 
